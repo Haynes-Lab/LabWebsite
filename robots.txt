@@ -1,1 +1,1 @@
-Sitemap: http://hayneslabucl.co.uk/sitemap.xml
+Sitemap: https://hayneslabucl.co.uk/sitemap.xml
