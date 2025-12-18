@@ -5,6 +5,6 @@
 
   # Haynes Lab Website
 
-  Visit **[hayneslabucl.co.uk](http://hayneslabucl.co.uk)** 🚀
+  Visit **[hayneslabucl.co.uk](https://hayneslabucl.co.uk)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
