@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Haynes-Lab's Website
+  # Haynes Lab Website
 
   Visit **[hayneslabucl.co.uk](http://hayneslabucl.co.uk)** 🚀
 
