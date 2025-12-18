@@ -1,1 +1,1 @@
-Sitemap: https://haynes-lab.github.io/LabWebsite/sitemap.xml
+Sitemap: http://hayneslabucl.co.uk/sitemap.xml
